@@ -1,0 +1,41 @@
+IDENTIFICAÇÃO 
+1. Título:Área total da Planície Litorânea do Estado do Ceará.
+2. Resumo:Arquivo georreferenciado com a representação gráfica da Planície Litorânea, gerado a partir de análises técnicas em atividades de campo por todos os municípios do litoral do Estado do Ceará e interpretação de imagens, através do projeto de contextualização geoambiental da zona costeira para subsidiar a adequação do meio físico do Zoneamento Ecológico-Econômico da Zona Costeira do Estado do Ceará.
+3. Palavras-chave (três): Planície Litorânea, litoral, Ceará.
+4. Data de elaboração:2021
+5. Data de publicação:2022
+6. Fonte dos Dados:Dado primário.
+
+IDENTIFICAÇÃO DO CDG
+7. Tipo de Representação Espacial (vetorial ou raster):Vetorial
+8. Geometria do arquivo (Linha, Ponto, Polígono, Imagem):Polígono
+9. Formato do arquivo:Shapefile
+10. Status do layer (Finalizado, Em execução, Em atualização):Finalizado
+11. Escala:1:50.000.
+12. Idioma:Português
+13. Codificação de Caracteres:UTF-8
+14. Categoria Temática (conforme SIG Web):Instrumentos e Projetos Territoriais
+15. Extensão Geográfica:23 municípios do litoral do Estado do Ceará.
+16. Retângulo Envolvente (O, S, L, N – Grau Decimal com todos os dígitos e sinal OU sistema métrico):
+- Menor longitude: -41.322681310
+
+- Menor latitude: -4.782158782
+
+- Maior longitude: -37.319957852
+
+- Maior latitude: -2.782061273
+
+INFORMAÇÃO DE MANUTENÇÃO
+17. Frequência de Manutenção e Atualização:	Não disponível
+SISTEMA DE REFERÊNCIA
+18. Identificador do Sistema de Referência(EPSG):4674
+19. Datum:SIRGAS 2000
+20. Projeção:Sistema de Coordenadas Geográficas
+
+DISTRIBUIÇÃO
+21. Formato de Distribuição:não definido.
+
+METAMETADADOS
+22. Data dos Metadados:	11/11/2022
+23. Versão da Norma de Metadados:2ª Edição
+24. Designação da Norma e Perfil de Metadados:Perfil MGB Sumarizado

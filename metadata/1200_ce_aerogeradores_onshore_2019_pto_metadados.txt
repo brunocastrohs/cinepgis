@@ -1,0 +1,41 @@
+- Título: Aerogeradores.
+
+- Resumo: Arquivo georreferenciado referente à localização dos aerogeradores no estado do Ceará, tendo como fonte o sistema SIGEL da ANEEL (https://sigel.aneel.gov.br/portal/home/). 
+ 
+- Palavras chave: Energia, Eólica, Infraestrutura, Ceará.
+
+- Data de elaboração: 2019.
+
+- Fonte: Agência Nacional de Energia Elétrica - ANEEL.
+
+- Extensão Geográfica: Estado do Ceará.
+
+- Retângulo Envolvente: 
+
+- Menor longitude: -41.204346
+
+- Menor latitude: -2.810908
+
+- Maior longitude: -37.272594
+
+- Maior latitude: -7.485120
+
+- Tipo de representação espacial (Vetorial ou raster): Vetorial.
+
+- Idioma: Português.
+
+- Categoria temática: Equipamentos
+
+- Formato do arquivo: Shapefile (SHP).
+
+- Formato de distribuição: Disponibilização via conexão WMS.
+
+- Geometria do arquivo (Linha, Ponto, Polígono, Imagem): Ponto.
+
+- Escala: 
+
+- Sistema de Referencia: Projeção Geográfica, Datum Sirgas 2000.
+
+- Status do layer (Finalizado, Em execuçao, Em atualizaçao): Finalizado.
+
+- Data dos metadados: 21/05/2019.

@@ -1,0 +1,44 @@
+IDENTIFICAÇÃO 
+1. Título:Diagnóstico biótico no litoral do Estado do Ceará
+2. Resumo: O Diagnóstico do Meio Biótico do ZEEC (SEMA, 2021, no prelo), assinala os manguezais como berçários da fauna. Muitas espécies de peixes, moluscos e
+crustáceos se reproduzem nesses ambientes que são locais adequados para o crescimento e desenvolvimento de larvas e filhotes da fauna. Demonstra-se que apesar
+da diversidade florística ser pouco significativa, a fauna e avifauna são extremamente ricas e diversificadas. A avifauna, em geral é visitante ou migratória.
+3. Palavras-chave (três): ZEEC, Aves, Peixe boi, desova 
+4. Data de elaboração:2019
+5. Data de publicação:2020
+6. Fonte dos Dados:Dado primário.
+
+IDENTIFICAÇÃO DO CDG
+7. Tipo de Representação Espacial (vetorial ou raster):vetorial
+8. Geometria do arquivo (Linha, Ponto, Polígono, Imagem):Polígono
+9. Formato do arquivo:Shapefile
+10. Status do layer (Finalizado, Em execução, Em atualização):Finalizado
+11. Escala:1:2.330.000.
+12. Idioma:Português
+13. Codificação de Caracteres:UTF-8
+14. Categoria Temática (conforme SIG Web): Instrumentos e Projetos Territoriais
+15. Extensão Geográfica:12 municípios do litoral do Estado do Ceará. 
+16. Retângulo Envolvente (O, S, L, N – Grau Decimal com todos os dígitos e sinal OU sistema métrico): 
+- Menor longitude: -41.275144
+
+- Menor latitude: -4.879556
+
+- Maior longitude: -37.264865
+
+- Maior latitude: -2.822037
+
+INFORMAÇÃO DE MANUTENÇÃO
+17. Frequência de Manutenção e Atualização:Não disponível
+
+SISTEMA DE REFERÊNCIA
+18. Identificador do Sistema de Referência(EPSG):4674
+19. Datum:SIRGAS 2000
+20. Projeção:Sistema de Coordenadas Geográficas
+
+DISTRIBUIÇÃO
+21. Formato de Distribuição:não definido.
+
+METAMETADADOS
+22. Data dos Metadados:	07/10/2020.
+23. Versão da Norma de Metadados:2ª Edição
+24. Designação da Norma e Perfil de Metadados:Perfil MGB Sumarizado

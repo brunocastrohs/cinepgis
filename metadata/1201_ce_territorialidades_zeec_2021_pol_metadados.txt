@@ -1,0 +1,7 @@
+IDENTIFICAÇÃO 1. Título: Territorialidades2. Resumo: Polígonos vetorizados representando aspectos territoriais mapeados na Cartografia Social (ZEEC)3. Palavras-chave (três): ZEEC; Cartografia Social; SEMA4. Data de elaboração: 20215. Data de publicação: 20226. Fonte dos Dados: Secretaria Estadual do Meio Ambiente (SEMA)IDENTIFICAÇÃO DO CDG7. Tipo de Representação Espacial (vetorial ou raster): Vetorial8. Geometria do arquivo (Linha, Ponto, Polígono, Imagem): Polígono9. Formato do arquivo: Shapefile10. Status do layer (Finalizado, Em execução, Em atualização): Finalizado11. Escala: 1:100.00012. Idioma: Português13. Codificação de Caracteres: UTF-814. Categoria Temática (conforme SIG Web): Instrumentos e Projetos Territoriais15. Extensão Geográfica: Estadual16. Retângulo Envolvente (O, S, L, N – Grau Decimal com todos os dígitos e sinal): Latitude Limítrofe Norte: -2.8399678798647447 Longitude Limítrofe Oeste: -40.5623376690323809 Longitude Limítrofe Leste: -38.6114802700000013 Latitude Limítrofe Sul -3.7959728599999969INFORMAÇÃO DE MANUTENÇÃO17. Frequência de Manutenção e Atualização: AnualSISTEMA DE REFERÊNCIA18. Identificador do Sistema de Referência (EPSG): 467419. Datum: SIRGAS 200020. Projeção: Sistema de Coordenadas GeográficasDISTRIBUIÇÃO21. Formato de DistribuiçãoDisponibilização via conexão WMSMETAMETADADOS22. Data dos Metadados: 29/06/202223. Versão da Norma de Metadados: 2ª Edição24. Designação da Norma e Perfil de Metadados: Perfil MGB Sumarizado
+
+
+
+
+
+

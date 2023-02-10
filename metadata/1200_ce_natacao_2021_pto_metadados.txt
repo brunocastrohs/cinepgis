@@ -1,0 +1,7 @@
+IDENTIFICAÇÃO 1. Título: Atividade esportiva de Natação2. Resumo: Áreas que apresentam atividade esportiva de natação no litoral do Ceará3. Palavras-chave (três): Usos e atividades; Atividades esportivas; Natação4. Data de elaboração: 20215. Data de publicação: 20226. Fonte dos Dados: CCMA PCM (Cientista-Chefe Meio Ambiente - Planejamento Costeiro e Marinho)IDENTIFICAÇÃO DO CDG7. Tipo de Representação Espacial (vetorial ou raster): Vetorial8. Geometria do arquivo (Linha, Ponto, Polígono, Imagem): Ponto9. Formato do arquivo: Shapefile10. Status do layer (Finalizado, Em execução, Em atualização): Finalizado11. Escala: 1:100.00012. Idioma: Português13. Codificação de Caracteres: UTF-814. Categoria Temática (conforme SIG Web): Instrumentos e Projetos Territoriais15. Extensão Geográfica: Estadual16. Retângulo Envolvente (O, S, L, N – Grau Decimal com todos os dígitos e sinal): Latitude Limítrofe Norte: -2.8501997812489179 Longitude Limítrofe Oeste: -41.0837883479371442 Longitude Limítrofe Leste: -37.2939195270718002 Latitude Limítrofe Sul: -4.7325209171488689INFORMAÇÃO DE MANUTENÇÃO17. Frequência de Manutenção e Atualização: AnualSISTEMA DE REFERÊNCIA18. Identificador do Sistema de Referência (EPSG): 467419. Datum: SIRGAS 200020. Projeção: Sistema de Coordenadas GeográficasDISTRIBUIÇÃO21. Formato de Distribuição: Disponibilização via conexão WMSMETAMETADADOS22. Data dos Metadados: 14/01/202123. Versão da Norma de Metadados: 2ª Edição24. Designação da Norma e Perfil de Metadados: Perfil MGB Sumarizado
+
+
+
+
+
+

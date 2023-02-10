@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portal/static/css/main.0f0757f1.chunk.css",
+    "main.js": "/portal/static/js/main.dd4fede7.chunk.js",
+    "main.js.map": "/portal/static/js/main.dd4fede7.chunk.js.map",
+    "runtime-main.js": "/portal/static/js/runtime-main.31958ecc.js",
+    "runtime-main.js.map": "/portal/static/js/runtime-main.31958ecc.js.map",
+    "static/css/2.b8e408b6.chunk.css": "/portal/static/css/2.b8e408b6.chunk.css",
+    "static/js/2.17f15c40.chunk.js": "/portal/static/js/2.17f15c40.chunk.js",
+    "static/js/2.17f15c40.chunk.js.map": "/portal/static/js/2.17f15c40.chunk.js.map",
+    "index.html": "/portal/index.html",
+    "static/css/2.b8e408b6.chunk.css.map": "/portal/static/css/2.b8e408b6.chunk.css.map",
+    "static/css/main.0f0757f1.chunk.css.map": "/portal/static/css/main.0f0757f1.chunk.css.map",
+    "static/js/2.17f15c40.chunk.js.LICENSE.txt": "/portal/static/js/2.17f15c40.chunk.js.LICENSE.txt",
+    "static/media/data_explorer_logo.b5eb11cf.png": "/portal/static/media/data_explorer_logo.b5eb11cf.png",
+    "static/media/header.5f4f307e.png": "/portal/static/media/header.5f4f307e.png",
+    "static/media/header_min.ccecbf1c.png": "/portal/static/media/header_min.ccecbf1c.png",
+    "static/media/modal_logo.a252cacc.png": "/portal/static/media/modal_logo.a252cacc.png",
+    "static/media/modal_logo_min.178fccc4.png": "/portal/static/media/modal_logo_min.178fccc4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31958ecc.js",
+    "static/css/2.b8e408b6.chunk.css",
+    "static/js/2.17f15c40.chunk.js",
+    "static/css/main.0f0757f1.chunk.css",
+    "static/js/main.dd4fede7.chunk.js"
+  ]
+}
