@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cinepgis/static/css/main.0f0757f1.chunk.css",
-    "main.js": "/cinepgis/static/js/main.ce4ca49c.chunk.js",
-    "main.js.map": "/cinepgis/static/js/main.ce4ca49c.chunk.js.map",
+    "main.js": "/cinepgis/static/js/main.b1a44493.chunk.js",
+    "main.js.map": "/cinepgis/static/js/main.b1a44493.chunk.js.map",
     "runtime-main.js": "/cinepgis/static/js/runtime-main.7f720647.js",
     "runtime-main.js.map": "/cinepgis/static/js/runtime-main.7f720647.js.map",
     "static/css/2.b8e408b6.chunk.css": "/cinepgis/static/css/2.b8e408b6.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.b8e408b6.chunk.css",
     "static/js/2.17f15c40.chunk.js",
     "static/css/main.0f0757f1.chunk.css",
-    "static/js/main.ce4ca49c.chunk.js"
+    "static/js/main.b1a44493.chunk.js"
   ]
 }
