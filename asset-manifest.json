@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/cinepgis/static/css/main.0f0757f1.chunk.css",
-    "main.js": "/cinepgis/static/js/main.434e7cc9.chunk.js",
-    "main.js.map": "/cinepgis/static/js/main.434e7cc9.chunk.js.map",
+    "main.css": "/cinepgis/static/css/main.79111988.chunk.css",
+    "main.js": "/cinepgis/static/js/main.5af44e36.chunk.js",
+    "main.js.map": "/cinepgis/static/js/main.5af44e36.chunk.js.map",
     "runtime-main.js": "/cinepgis/static/js/runtime-main.7f720647.js",
     "runtime-main.js.map": "/cinepgis/static/js/runtime-main.7f720647.js.map",
     "static/css/2.b8e408b6.chunk.css": "/cinepgis/static/css/2.b8e408b6.chunk.css",
-    "static/js/2.17f15c40.chunk.js": "/cinepgis/static/js/2.17f15c40.chunk.js",
-    "static/js/2.17f15c40.chunk.js.map": "/cinepgis/static/js/2.17f15c40.chunk.js.map",
+    "static/js/2.e0e8e24d.chunk.js": "/cinepgis/static/js/2.e0e8e24d.chunk.js",
+    "static/js/2.e0e8e24d.chunk.js.map": "/cinepgis/static/js/2.e0e8e24d.chunk.js.map",
     "index.html": "/cinepgis/index.html",
     "static/css/2.b8e408b6.chunk.css.map": "/cinepgis/static/css/2.b8e408b6.chunk.css.map",
-    "static/css/main.0f0757f1.chunk.css.map": "/cinepgis/static/css/main.0f0757f1.chunk.css.map",
-    "static/js/2.17f15c40.chunk.js.LICENSE.txt": "/cinepgis/static/js/2.17f15c40.chunk.js.LICENSE.txt",
-    "static/media/data_explorer_logo.b5eb11cf.png": "/cinepgis/static/media/data_explorer_logo.b5eb11cf.png",
+    "static/css/main.79111988.chunk.css.map": "/cinepgis/static/css/main.79111988.chunk.css.map",
+    "static/js/2.e0e8e24d.chunk.js.LICENSE.txt": "/cinepgis/static/js/2.e0e8e24d.chunk.js.LICENSE.txt",
     "static/media/header.4cc5dcb7.png": "/cinepgis/static/media/header.4cc5dcb7.png",
     "static/media/header_min.ccecbf1c.png": "/cinepgis/static/media/header_min.ccecbf1c.png",
     "static/media/modal_logo.a252cacc.png": "/cinepgis/static/media/modal_logo.a252cacc.png",
@@ -21,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.7f720647.js",
     "static/css/2.b8e408b6.chunk.css",
-    "static/js/2.17f15c40.chunk.js",
-    "static/css/main.0f0757f1.chunk.css",
-    "static/js/main.434e7cc9.chunk.js"
+    "static/js/2.e0e8e24d.chunk.js",
+    "static/css/main.79111988.chunk.css",
+    "static/js/main.5af44e36.chunk.js"
   ]
 }
