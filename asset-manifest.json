@@ -1,27 +1,15 @@
 {
   "files": {
-    "main.css": "/cinepgis/static/css/main.e05de20e.chunk.css",
-    "main.js": "/cinepgis/static/js/main.97f7a6c7.chunk.js",
-    "main.js.map": "/cinepgis/static/js/main.97f7a6c7.chunk.js.map",
-    "runtime-main.js": "/cinepgis/static/js/runtime-main.ff60caf0.js",
-    "runtime-main.js.map": "/cinepgis/static/js/runtime-main.ff60caf0.js.map",
-    "static/css/2.b8e408b6.chunk.css": "/cinepgis/static/css/2.b8e408b6.chunk.css",
-    "static/js/2.b9034754.chunk.js": "/cinepgis/static/js/2.b9034754.chunk.js",
-    "static/js/2.b9034754.chunk.js.map": "/cinepgis/static/js/2.b9034754.chunk.js.map",
+    "main.css": "/cinepgis/static/css/main.aa00fec3.css",
+    "main.js": "/cinepgis/static/js/main.95287ac1.js",
+    "static/media/header.png": "/cinepgis/static/media/header.4cc5dcb7df07e488fbe9.png",
+    "static/media/header_min.png": "/cinepgis/static/media/header_min.ccecbf1c7f1ac5be2b23.png",
     "index.html": "/cinepgis/index.html",
-    "static/css/2.b8e408b6.chunk.css.map": "/cinepgis/static/css/2.b8e408b6.chunk.css.map",
-    "static/css/main.e05de20e.chunk.css.map": "/cinepgis/static/css/main.e05de20e.chunk.css.map",
-    "static/js/2.b9034754.chunk.js.LICENSE.txt": "/cinepgis/static/js/2.b9034754.chunk.js.LICENSE.txt",
-    "static/media/header.4cc5dcb7.png": "/cinepgis/static/media/header.4cc5dcb7.png",
-    "static/media/header_min.ccecbf1c.png": "/cinepgis/static/media/header_min.ccecbf1c.png",
-    "static/media/modal_logo.a252cacc.png": "/cinepgis/static/media/modal_logo.a252cacc.png",
-    "static/media/modal_logo_min.178fccc4.png": "/cinepgis/static/media/modal_logo_min.178fccc4.png"
+    "main.aa00fec3.css.map": "/cinepgis/static/css/main.aa00fec3.css.map",
+    "main.95287ac1.js.map": "/cinepgis/static/js/main.95287ac1.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff60caf0.js",
-    "static/css/2.b8e408b6.chunk.css",
-    "static/js/2.b9034754.chunk.js",
-    "static/css/main.e05de20e.chunk.css",
-    "static/js/main.97f7a6c7.chunk.js"
+    "static/css/main.aa00fec3.css",
+    "static/js/main.95287ac1.js"
   ]
 }
